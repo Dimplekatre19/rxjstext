@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  baseUrls:`https://xhraa-db410-default-rtdb.firebaseio.com`
 };
